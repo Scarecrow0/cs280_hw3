@@ -8,10 +8,7 @@ Name:  student ID:
 **December 3, 2019, 23:59 UTC+8**
 
 ## Statement
-It's a coding project. We mainly borrow the project from CS231n. You can refer to [README](partA-coding/README.md) for details.   
-Before you start coding, make sure you current work dir is in this folder `partA-coding`, otherwise you can not import the modules normally.
-We mainly borrow the project from CS231n, you can refer to http://cs231n.github.io/assignments2018/assignment3/ for details. 
-Due to the low compatibility of TensorFlow, we remove the TensorFlow version of ipynb and only remain the PyTorch version. 
+It's a coding project. We mainly borrow the project from CS231n. We mainly borrow the project from CS231n, you can refer to http://cs231n.github.io/assignments2018/assignment3/ for details. Before you start coding, make sure you current work dir is in this folder `partA-coding`, otherwise you can not import the modules normally. Due to the low compatibility of TensorFlow, we remove the TensorFlow version of ipynb and only remain the PyTorch version. 
 
 
 
